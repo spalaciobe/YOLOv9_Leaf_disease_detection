@@ -35,8 +35,8 @@ By leveraging deep learning and image processing methodologies, this project aim
 
 This section showcases the inferences made by the trained YOLOv9 models. 
 
-  <img src="images/Figure3.jpg" alt="Inference 3" width="600">
-  <img src="images/Figure4.jpg" alt="Inference 4" width="600">
+  <img src="images/Figure 3.jpg" alt="Inference 3" width="600">
+  <img src="images/Figure 4.jpg" alt="Inference 4" width="600">
 
 ---
 
