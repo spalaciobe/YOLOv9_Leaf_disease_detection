@@ -31,6 +31,13 @@ By leveraging deep learning and image processing methodologies, this project aim
 - **Metrics**: The evaluation includes precision, recall, and mAP, focusing on both detection accuracy and inference speed.
 - **Cross-Dataset Testing**: The models are tested on both complex (custom) and simpler (PlantVillage) images to demonstrate their generalization capabilities across different datasets.
 
+## Datasets
+
+This project utilizes the following datasets for training and evaluation:
+
+1. **Custom Tomato Leaf Disease Dataset**: Used to train the models. [Kaggle Link](https://www.kaggle.com/datasets/sebastianpalaciob/tomato-leaf-diseases-dataset-for-object-detection)
+2. **PlantVillage Dataset**: Obtained from PlantVillage Dataset Transformation [Kaggle Link](https://www.kaggle.com/datasets/sebastianpalaciob/plantvillage-for-object-detection-yolo)
+
 ## Model Inferences
 
 This section showcases the inferences made by the trained YOLOv9 models. 
