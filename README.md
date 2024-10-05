@@ -26,7 +26,7 @@ By leveraging deep learning and image processing methodologies, this project aim
 
 ## PlantVillage Dataset Transformation
 
-- **Annotation Process**: The notebook implements an automatic leaf detection method and assigns class labels based on the folder structure. Manual corrections are performed to ensure the accuracy of the annotations.
+- **Annotation Process**: The notebook implements an automatic leaf detection method and assigns class labels based on the folder structure. Manual corrections are performed to ensure the accuracy of the annotations. \
   <img src="images/Figure 2.jpg" alt="Annotation process" width="600">
 
 - **Dataset Structuring**: The transformation process prepares the dataset for YOLOv9 by converting annotations and splitting the data into training and validation sets.
