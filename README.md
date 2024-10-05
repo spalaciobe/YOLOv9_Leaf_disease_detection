@@ -6,6 +6,11 @@ This repository provides a comprehensive workflow for applying computer vision t
 
 By leveraging deep learning and image processing methodologies, this project aims to improve the accuracy and efficiency of detecting plant diseases, which is essential for sustainable agriculture and food security. The following Jupyter notebooks detail the processes involved in customizing model training, transforming existing datasets, and rigorously testing and evaluating model performance.
 
+## Model Inferences
+
+  <img src="images/Figure 3.jpg" alt="Inference 3" width="600">
+  <img src="images/Figure 4.jpg" alt="Inference 4" width="600">
+
 ## Notebooks Overview
 
 1. **Custom YOLOv9 Training** - [`training-yolov9-t.ipynb`](training-yolov9-t.ipynb): This notebook details the training process of YOLOv9 on a custom tomato leaf disease dataset. It includes data augmentation techniques, model architecture configuration, hyperparameter tuning, and training logs to track the training progress.
@@ -38,13 +43,6 @@ This project utilizes the following datasets for training and evaluation:
 1. **Custom Tomato Leaf Disease Dataset**: Used to train the models. [Kaggle Link](https://www.kaggle.com/datasets/sebastianpalaciob/tomato-leaf-diseases-dataset-for-object-detection)
 2. **PlantVillage Dataset**: Obtained from PlantVillage Dataset Transformation [Kaggle Link](https://www.kaggle.com/datasets/sebastianpalaciob/plantvillage-for-object-detection-yolo)
 
-## Model Inferences
-
-This section showcases the inferences made by the trained YOLOv9 models. 
-
-  <img src="images/Figure 3.jpg" alt="Inference 3" width="600">
-  <img src="images/Figure 4.jpg" alt="Inference 4" width="600">
 
 ---
 
-This project successfully transforms classification data for object detection, trains YOLOv9 models, and demonstrates their performance across datasets, supporting future work in plant disease detection.
