@@ -1,6 +1,6 @@
 # YOLOv9 Custom Training and PlantVillage Transformation
 
-*This project is part of ongoing research on plant disease detection. A detailed academic paper covering the methodology, experiments, and results will be published soon. Stay tuned for the official release!*
+*Asociated paper:* https://doi.org/10.15446/rfnam.v78n3.116493
 
 This repository provides a comprehensive workflow for applying computer vision techniques to plant disease detection using YOLOv9 models. The project focuses on training these models, transforming the PlantVillage dataset for object detection, and evaluating their performance.
 
